@@ -1,0 +1,21 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Hola mundo con express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "tutorial",
+    "hola",
+    "mundo"
+  ],
+  "author": "JanidHam <janid_ham@hotmail.com>",
+  "license": "ISC"
+}
