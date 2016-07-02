@@ -1,10 +1,12 @@
 {
-  "name": "holamundo",
+  "name": "mongoose-tutorial",
   "version": "1.0.0",
-  "description": "Hola mundo con express",
+  "description": "Tutorial de mongoose con express",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.5.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,7 +16,9 @@
     "express",
     "tutorial",
     "hola",
-    "mundo"
+    "mundo",
+    "mongoose",
+    "mongodb"
   ],
   "author": "JanidHam <janid_ham@hotmail.com>",
   "license": "ISC"
